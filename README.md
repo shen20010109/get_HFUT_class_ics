@@ -1,0 +1,2 @@
+# get_HFUT_class_ics
+爬取合肥工业大学的课程表并存入ics文件
